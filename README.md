@@ -1,6 +1,6 @@
 # Survey Filler (Chrome Extension)
 
-🚗✅ A One-Click survey/course feedback filler for University of Engineering and Technology (UET) LMS.
+✅ A One-Click survey/course feedback filler for University of Engineering and Technology (UET) LMS.
 
 It is a Chrome extension that automatically detects whenever you are submitting surveys and provides
 you 5 options to select from. Once selected, it fills all the answers saving your time. I created
@@ -8,7 +8,7 @@ this to avoid the frustation of selecting 30 radio buttons! 🙄😬
 
 ## Preview
 
-![Preview](https://s5.gifyu.com/images/surveyfiller_3-2.md.gif)
+![Preview](https://github.com/ahmadbilaldev/automate/blob/master/surveyfiller_3%20(1).gif?raw=true)
 
 ## How To Install
 
