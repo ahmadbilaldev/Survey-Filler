@@ -14,8 +14,7 @@ this to avoid the frustation of selecting 30 radio buttons! 🙄😬
 
 For now, you can install it manually following these simple steps:
 
-- Download the extension from [here]
-(https://github.com/ahmadbilaldev/Survery-Filler/archive/master.zip).
+- Download the extension from [here](https://github.com/ahmadbilaldev/Survey-Filler/archive/master.zip).
 
 - Unzip it.
 
