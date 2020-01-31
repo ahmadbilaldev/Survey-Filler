@@ -8,6 +8,8 @@ this to avoid the frustation of selecting 30 radio buttons! 🙄😬
 
 ## Preview
 
+![Preview](https://s5.gifyu.com/images/surveyfiller_3-2.md.gif)
+
 ## How To Install
 
 For now, you can install it manually following these simple steps:
