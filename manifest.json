@@ -1,0 +1,33 @@
+{
+	"name": "Survey Filler for UET LMS",
+	"short_name": "Survey Filler",
+	"version": "1.0",
+	"description": "Submission of course surveys/feedback in One Click - for UET LMS",
+	"manifest_version": 2,
+	"background": {
+		"persistent": true,
+		"scripts": ["jquery.min.js"]
+	},
+	"browser_action": {
+		"default_icon": {
+			"16": "images/icon_16.png",
+			"32": "images/icon_32.png",
+			"48": "images/icon_48.png",
+			"128": "images/icon_128.png"
+		},
+		"default_popup": "popup.html"
+	},
+	"icons": {
+		"16": "images/icon_128.png",
+		"32": "images/icon_128.png",
+		"48": "images/icon_128.png",
+		"128": "images/icon_128.png"
+	},
+	"content_scripts": [
+		{
+			"js": ["jquery.min.js", "sweetalert.min.js", "inject.js"],
+			"matches": ["*://lms.uet.edu.pk/survey/fill/*"]
+		}
+	],
+	"content_security_policy": "script-src 'self'; object-src 'self'"
+}
