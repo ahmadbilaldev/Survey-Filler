@@ -1,0 +1,14 @@
+.popupElement {
+	font-family: 'Source Sans Pro', sans-serif;
+	font-size: 20px;
+	color: black;
+	margin: 3rem 3rem;
+}
+
+h1.popupElement {
+}
+
+.popupBody {
+	font-size: 14px;
+	background-color: #b6b7b9;
+}
